@@ -1,0 +1,13 @@
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\obj\Debug\net8.0\RomanConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\obj\Debug\net8.0\RomanConverter.AssemblyInfoInputs.cache
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\obj\Debug\net8.0\RomanConverter.AssemblyInfo.cs
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\obj\Debug\net8.0\RomanConverter.csproj.CoreCompileInputs.cache
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\bin\Debug\net8.0\RomanConverter.exe
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\bin\Debug\net8.0\RomanConverter.deps.json
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\bin\Debug\net8.0\RomanConverter.runtimeconfig.json
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\bin\Debug\net8.0\RomanConverter.dll
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\obj\Debug\net8.0\RomanConverter.dll
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\obj\Debug\net8.0\refint\RomanConverter.dll
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\obj\Debug\net8.0\RomanConverter.pdb
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\obj\Debug\net8.0\RomanConverter.genruntimeconfig.cache
+C:\Users\sonya\herzen project\RomanConverter\RomanConverter\obj\Debug\net8.0\ref\RomanConverter.dll
